@@ -1,0 +1,16 @@
+{"reel_id":"R-17","frame":1,"scanned_at":"2053-03-07T15:05Z","focus_score":90,"barcode":"R-17","scan_no":1}
+{"reel_id":"R-17","frame":2,"scanned_at":"2053-03-07T15:10Z","focus_score":82,"barcode":"R-17","scan_no":2}
+{"reel_id":"R-17","frame":3,"scanned_at":"2053-03-07T15:20Z","focus_score":77,"barcode":"R-17","scan_no":3}
+{"reel_id":"R-22","frame":1,"scanned_at":"2053-03-07T15:10Z","focus_score":71,"barcode":"R-22","scan_no":1}
+{"reel_id":"R-22","frame":2,"scanned_at":"2053-03-07T15:25Z","focus_score":72,"barcode":"R-22","scan_no":2}
+{"reel_id":"R-22","frame":2,"scanned_at":"2053-03-07T15:35Z","focus_score":74,"barcode":"R-22","scan_no":1}
+{"reel_id":"R-31","frame":1,"scanned_at":"2053-03-07T15:40Z","focus_score":80,"barcode":"R-31","scan_no":1}
+{"reel_id":"R-31","frame":2,"scanned_at":"2053-03-07T15:45Z","focus_score":79,"barcode":"R-31","scan_no":2}
+{"reel_id":"R-44","frame":1,"scanned_at":"2053-03-07T15:20Z","focus_score":70,"barcode":"R-44","scan_no":1}
+{"reel_id":"R-44","frame":2,"scanned_at":"2053-03-07T15:30Z","focus_score":72,"barcode":"WRONG-44","scan_no":2}
+{"reel_id":"R-55","frame":1,"scanned_at":"2053-03-07T15:15Z","focus_score":88,"barcode":"R-55","scan_no":1}
+{"reel_id":"R-55","frame":2,"scanned_at":"2053-03-07T15:40Z","focus_score":86,"barcode":"R-55","scan_no":2}
+{"reel_id":"R-55","frame":3,"scanned_at":"2053-03-07T15:42Z","focus_score":90,"barcode":"R-55","scan_no":3}
+{"reel_id":"R-17","frame":1,"scanned_at":"2053-03-07T16:01Z","focus_score":99,"barcode":"R-17","scan_no":8}
+not json
+{"reel_id":"R-22","frame":1,"scanned_at":"bad","focus_score":70,"barcode":"R-22","scan_no":7}

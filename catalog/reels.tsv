@@ -1,0 +1,6 @@
+reel_id	title	due_at	class	required_frames	min_focus
+R-17	Aurora Cut	2053-03-07T15:40Z	FEATURE	3	80
+R-22	Beacon News	2053-03-07T15:30Z	STANDARD	2	70
+R-31	Cinder Study	2053-03-07T15:55Z	FEATURE	3	75
+R-44	Drift Harbor	2053-03-07T15:50Z	STANDARD	2	65
+R-55	Ember Parade	2053-03-07T15:45Z	STANDARD	2	85
