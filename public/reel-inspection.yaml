@@ -1,0 +1,58 @@
+schema_version: 1
+cutoff: "2053-03-07T16:00Z"
+reels:
+  - reel_id: "R-31"
+    title: "Cinder Study"
+    due_at: "2053-03-07T15:55Z"
+    class: "FEATURE"
+    required_frame_count: 3
+    selected_frame_count: 2
+    barcode_match_count: 2
+    focus_total: 159
+    latest_selected_at: "2053-03-07T15:45Z"
+    usable_scan_count: 2
+    status: "MISSING_FRAME"
+  - reel_id: "R-44"
+    title: "Drift Harbor"
+    due_at: "2053-03-07T15:50Z"
+    class: "STANDARD"
+    required_frame_count: 2
+    selected_frame_count: 2
+    barcode_match_count: 1
+    focus_total: 142
+    latest_selected_at: "2053-03-07T15:30Z"
+    usable_scan_count: 2
+    status: "BARCODE_MISMATCH"
+  - reel_id: "R-17"
+    title: "Aurora Cut"
+    due_at: "2053-03-07T15:40Z"
+    class: "FEATURE"
+    required_frame_count: 3
+    selected_frame_count: 3
+    barcode_match_count: 3
+    focus_total: 249
+    latest_selected_at: "2053-03-07T15:20Z"
+    usable_scan_count: 3
+    status: "SOFT_FOCUS"
+  - reel_id: "R-22"
+    title: "Beacon News"
+    due_at: "2053-03-07T15:30Z"
+    class: "STANDARD"
+    required_frame_count: 2
+    selected_frame_count: 2
+    barcode_match_count: 2
+    focus_total: 145
+    latest_selected_at: "2053-03-07T15:35Z"
+    usable_scan_count: 3
+    status: "OVERDUE_SCAN"
+  - reel_id: "R-55"
+    title: "Ember Parade"
+    due_at: "2053-03-07T15:45Z"
+    class: "STANDARD"
+    required_frame_count: 2
+    selected_frame_count: 2
+    barcode_match_count: 2
+    focus_total: 174
+    latest_selected_at: "2053-03-07T15:40Z"
+    usable_scan_count: 2
+    status: "APPROVED"
